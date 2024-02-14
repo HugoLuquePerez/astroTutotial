@@ -12,7 +12,11 @@ Inside of your Astro project, you'll see the following folders and files:
 /
 ├── public/
 ├── src/
-│   └── pages/
+│   ├── components/
+│   │     ├── Footer.astro
+│   │     ├── Social.astro
+│   │     └── Navigation.astro
+│   ├── pages/
 │   │     ├── about.astro
 │   │     ├── blog.astro
 │   │     ├── index.astro
