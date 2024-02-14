@@ -13,9 +13,13 @@ Inside of your Astro project, you'll see the following folders and files:
 ├── public/
 ├── src/
 │   └── pages/
-│       └── about.astro
-│       └── index.astro 
-│       └── blog.astro
+│         ├── about.astro
+│         ├── blog.astro
+│         ├── index.astro
+│         └── post/    
+│               ├──post-1.md
+│               ├──post-2.md
+│               └──post-3.md
 └── package.json
 ```
 
