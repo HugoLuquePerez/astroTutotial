@@ -1,4 +1,4 @@
-#Project Status
+# ✔ Project Status
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/371375e5-0cf4-4b0f-9435-7555d093f570/deploy-status)](https://app.netlify.com/sites/astrotutorial19/deploys)
 
