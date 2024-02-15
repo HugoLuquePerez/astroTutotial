@@ -14,6 +14,7 @@ Inside of your Astro project, you'll see the following folders and files:
 ├── src/
 │   ├── components/
 │   │     ├── Footer.astro
+│   │     ├── Hamburger.astro
 │   │     ├── Social.astro
 │   │     ├── Header.astro
 │   │     └── Navigation.astro
@@ -25,6 +26,8 @@ Inside of your Astro project, you'll see the following folders and files:
 │   │           ├──post-1.md
 │   │           ├──post-2.md
 │   │           └──post-3.md
+│   ├── scripts/
+│   │     └── menu.js
 │   └── styles/
 │         └── global.css
 └── package.json
